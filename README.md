@@ -11,4 +11,5 @@ First you setup keycloak as a service. You need to run it either on docker or on
 
 ## Dev links
 Atricle on how to create a spring boot application with keycloak: https://www.baeldung.com/spring-boot-keycloak 
+
 Article on how to intall the keycloak service on a server: https://www.keycloak.org/docs/latest/server_installation/index.html
